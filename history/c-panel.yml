@@ -1,7 +1,7 @@
 url: https://charlie.delta-core.fr
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-06-10T21:53:04.665Z
+status: up
+code: 200
+responseTime: 526
+lastUpdated: 2023-06-10T22:05:57.325Z
 startTime: Thu Jan 26 2023 23:06:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
