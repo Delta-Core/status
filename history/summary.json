@@ -93,7 +93,7 @@
     "uptime": "88.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.77%",
+    "uptimeMonth": "89.80%",
     "uptimeYear": "88.27%",
     "time": 1083,
     "timeDay": 606,
@@ -154,15 +154,15 @@
     "url": "https://charlie.delta-core.fr",
     "icon": "https://icons.duckduckgo.com/ip3/charlie.delta-core.fr.ico",
     "slug": "c-panel",
-    "status": "up",
-    "uptime": "84.45%",
-    "uptimeDay": "76.30%",
+    "status": "down",
+    "uptime": "84.48%",
+    "uptimeDay": "76.28%",
     "uptimeWeek": "71.77%",
-    "uptimeMonth": "50.42%",
-    "uptimeYear": "84.45%",
+    "uptimeMonth": "50.45%",
+    "uptimeYear": "84.48%",
     "time": 1527,
     "timeDay": 1569,
-    "timeWeek": 2037,
+    "timeWeek": 2041,
     "timeMonth": 2029,
     "timeYear": 1527,
     "dailyMinutesDown": {
@@ -243,7 +243,7 @@
       "2023-04-04": 71,
       "2023-03-30": 97,
       "2023-03-21": 104,
-      "2023-03-20": 157
+      "2023-03-20": 46
     }
   },
   {
@@ -263,7 +263,7 @@
     "timeMonth": 0,
     "timeYear": 3004,
     "dailyMinutesDown": {
-      "2023-10-02": 1065,
+      "2023-10-02": 1078,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
