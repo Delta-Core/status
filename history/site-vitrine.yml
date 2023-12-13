@@ -1,7 +1,7 @@
 url: https://delta-core.fr
-status: up
-code: 200
-responseTime: 637
-lastUpdated: 2023-12-12T23:01:22.473Z
+status: down
+code: 500
+responseTime: 540
+lastUpdated: 2023-12-13T14:54:21.322Z
 startTime: 2023-01-26T23:06:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
