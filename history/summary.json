@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vo-ip",
     "status": "down",
-    "uptime": "42.74%",
+    "uptime": "42.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "23.49%",
+    "uptimeYear": "23.26%",
     "time": 2560,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2085,
+    "timeYear": 2051,
     "dailyMinutesDown": {
-      "2024-06-21": 11,
+      "2024-06-22": 11,
+      "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
@@ -302,8 +303,7 @@
       "2023-07-19": 434,
       "2023-07-18": 531,
       "2023-06-27": 709,
-      "2023-06-26": 478,
-      "2023-06-23": 16
+      "2023-06-26": 478
     }
   },
   {
@@ -312,15 +312,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/delta-core.fr.ico",
     "slug": "site-vitrine",
     "status": "up",
-    "uptime": "92.42%",
+    "uptime": "92.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.97%",
-    "time": 789,
-    "timeDay": 684,
-    "timeWeek": 722,
-    "timeMonth": 757,
+    "time": 790,
+    "timeDay": 623,
+    "timeWeek": 717,
+    "timeMonth": 756,
     "timeYear": 821,
     "dailyMinutesDown": {
       "2024-05-03": 388,
@@ -363,18 +363,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/charlie.delta-core.fr.ico",
     "slug": "c-panel",
     "status": "down",
-    "uptime": "42.48%",
+    "uptime": "42.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.22%",
+    "uptimeYear": "19.99%",
     "time": 1655,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1743,
+    "timeYear": 1756,
     "dailyMinutesDown": {
-      "2024-06-21": 11,
+      "2024-06-22": 11,
+      "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
@@ -686,8 +687,7 @@
       "2023-08-08": 27,
       "2023-08-07": 29,
       "2023-07-05": 32,
-      "2023-06-24": 25,
-      "2023-06-23": 165
+      "2023-06-24": 25
     }
   },
   {
@@ -696,7 +696,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/romain.delta-core.fr.ico",
     "slug": "plesk",
     "status": "down",
-    "uptime": "16.54%",
+    "uptime": "16.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -707,7 +707,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-21": 11,
+      "2024-06-22": 12,
+      "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
@@ -1070,8 +1071,7 @@
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
-      "2023-06-24": 1440,
-      "2023-06-23": 1440
+      "2023-06-24": 1440
     }
   }
 ]
