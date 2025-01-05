@@ -8,9 +8,9 @@ sites:
   - name: Site Vitrine
     url: https://delta-core.fr
   - name: cPanel
-    url: https://charlie.delta-core.fr
+    url: https://charlie.delta-core.fr # stop
   - name: Plesk
-    url: https://romain.delta-core.fr
+    url: https://romain.delta-core.fr # stop
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
